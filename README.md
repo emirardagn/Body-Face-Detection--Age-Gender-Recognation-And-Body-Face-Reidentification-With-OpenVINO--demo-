@@ -1,5 +1,4 @@
 Real-Time Face and Person Reidentification
-
 This project is designed to perform real-time face and person reidentification using OpenVINO models. The application captures video from a webcam or a video file, detects faces and bodies, estimates age and gender, and tracks the identified individuals across frames.
 
 Features
